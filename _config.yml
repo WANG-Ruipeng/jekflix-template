@@ -1,7 +1,7 @@
 # Site Settings
-name: Wang Ruipeng
+name: Wang Ruipeng's blog
 title: CODE THE WORLD ANEW
-description: This is a Wang Ruipeng's personal website and portfolio.
+description: This is Wang Ruipeng's personal website and portfolio.
 tags:
   - blog
   - template
@@ -18,29 +18,29 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email:
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username:
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id:
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: wang-ruipeng
+facebook_username: 
+twitter_username: 
+instagram_username: 
+linkedin_username: 
+medium_username: 
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
-two_columns_layout: true
+show_modal_on_finish_post: false
+two_columns_layout: false
 
 
 # Advanced Settings
