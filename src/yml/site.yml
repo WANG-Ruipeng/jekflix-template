@@ -3,10 +3,7 @@ title: CODE THE WORLD ANEW
 description: This is Wang Ruipeng's personal website and portfolio.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+
 show_hero: true
 menu:
   - title: Home
@@ -15,8 +12,7 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+
 email:
 # See: https://disqus.com/
 disqus_username:
