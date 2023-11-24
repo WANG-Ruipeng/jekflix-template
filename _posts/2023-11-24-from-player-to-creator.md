@@ -1,5 +1,5 @@
 ---
-date: 2020-05-16T23:48:05.000Z
+date: 2021-09-17 02:54:20
 layout: post
 title: 
 subtitle: 'What Inspires My Game Development'
@@ -11,7 +11,7 @@ optimized_image: >-
   https://medias.wangruipeng.com/numboom-cover.jpg
 category: blog
 tags:
-  - welcome
+  - introduction
   - blog
 author: mranderson
 paginate: false
