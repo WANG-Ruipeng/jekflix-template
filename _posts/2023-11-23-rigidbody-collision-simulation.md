@@ -176,9 +176,9 @@ Vector3 CollisionPointSpeed_New = CollisionPointSpeedN_New + CollisionPointSpeed
 
 Then, based on the updated velocity, we calculate the generated impulse j, the formula for which is as follows:
 
-![Response_by_impulse](https://pub-80cdf57f3b4042e69e006466ac4f50f3.r2.dev/Response_by_impulse.png)
+![Response_by_impulse](https://pic1.zhimg.com/v2-1574c1fdb3d4852012ca7e4dc401276f_1440w.jpg?source=d16d100b)
 
-![Response_by_impulse_2](https://pub-80cdf57f3b4042e69e006466ac4f50f3.r2.dev/Response_by_impulse_2.png)
+![Response_by_impulse_2](https://pic1.zhimg.com/v2-1574c1fdb3d4852012ca7e4dc401276f_1440w.jpg?source=d16d100b)
 
 Note that among all these formulas, only j is the unknown variable, so it's particularly easy to solve. Make sure to correspond the variables in the code with the ones in the formula above. Be aware that Unity's matrix operation library does not support scalar multiplication and subtraction with matrices, so we need to input these manually.
 
