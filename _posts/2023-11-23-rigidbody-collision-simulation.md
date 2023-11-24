@@ -7,9 +7,9 @@ description: >-
   This is part 1 of my course project at GAMES 103 Physics Simulation Series. 
   This part of the course work mainly focuses on simulating rigid body collision.
 image: >-
-  https://wangruipeng.com/GAMES-103-Lab1-Res.png
+  https://pub-80cdf57f3b4042e69e006466ac4f50f3.r2.dev/GAMES-103-Lab1-Res.png
 optimized_image: >-
-  https://wangruipeng.com/GAMES-103-Lab1-Res.png
+  https://pub-80cdf57f3b4042e69e006466ac4f50f3.r2.dev/GAMES-103-Lab1-Res.png
 category: blog
 tags:
   - physics
