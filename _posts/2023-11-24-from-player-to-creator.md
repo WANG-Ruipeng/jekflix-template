@@ -13,7 +13,7 @@ category: blog
 tags:
   - introduction
   - blog
-author: mranderson
+author: Wang Ruipeng
 paginate: false
 ---
 My fascination with gaming began in primary school, sparked by afternoons spent with my friends in the world of Minecraft.
