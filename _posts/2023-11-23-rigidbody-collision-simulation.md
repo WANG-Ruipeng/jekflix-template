@@ -7,9 +7,9 @@ description: >-
   This is part 1 of my course project at GAMES 103 Physics Simulation Series. 
   This part of the course work mainly focuses on simulating rigid body collision.
 image: >-
-  https://pic1.zhimg.com/v2-1574c1fdb3d4852012ca7e4dc401276f_1440w.jpg?source=d16d100b
+  https://medias.wangruipeng.com/GAMES-103-Lab1-Res.png
 optimized_image: >-
-  https://pic1.zhimg.com/v2-1574c1fdb3d4852012ca7e4dc401276f_1440w.jpg?source=d16d100b
+  https://medias.wangruipeng.com/GAMES-103-Lab1-Res.png
 category: blog
 tags:
   - physics
@@ -51,7 +51,7 @@ and the orientation by Leapfrog integration. Disable the linear motion and the p
 
 For this assignment, we need to use **leapfrog integration** method. Leapfrog integration is a numerical method widely used in computer physics simulations for its stability and efficiency, especially in dealing with differential equations in motion simulations. This method stands out for its ability to handle large time steps, making it ideal for real-time applications such as video games and visual effects in movies.
 
-![Leapfrog](https://pic1.zhimg.com/v2-1574c1fdb3d4852012ca7e4dc401276f_1440w.jpg?source=d16d100b)
+![Leapfrog](https://medias.wangruipeng.com/Leapfrog.png)
 
 We just need to code according to the formula. First, we obtain `x0` and `q0` as the position and rotation angle of the object from the last simulation, and then update them after calculation.
 
@@ -157,11 +157,11 @@ calculate the proper impulse j for the average colliding position. You then upda
 
 The specific implementation is to directly follow the formula step by step. Here, we'll first present all the formulas. Don't worry, we will explain them one by one in detail.
 
-![Rigid collision formulae](https://pic1.zhimg.com/v2-1574c1fdb3d4852012ca7e4dc401276f_1440w.jpg?source=d16d100b)
+![Rigid collision formulae](https://medias.wangruipeng.com/Rigid_collision_formulae.png)
 
 We need to first calculate the velocity after the collision, the formula for which is as follows:
 
-![Impulse](https://pic1.zhimg.com/v2-1574c1fdb3d4852012ca7e4dc401276f_1440w.jpg?source=d16d100b)
+![Impulse](https://medias.wangruipeng.com/Impulse_method.png)
 
 We decompose the velocity into components along the normal and tangential directions as **`CollisionPointSpeedN`** and **`CollisionPointSpeedF`**, respectively. Then, we calculate the velocity along the normal and tangential directions after the collision again, storing them in **`CollisionPointSpeedN_New`** and **`CollisionPointSpeedF_New`**, respectively. Finally, we combine these to form **`CollisionPointSpeed_New`**
 
@@ -176,9 +176,9 @@ Vector3 CollisionPointSpeed_New = CollisionPointSpeedN_New + CollisionPointSpeed
 
 Then, based on the updated velocity, we calculate the generated impulse j, the formula for which is as follows:
 
-![Response_by_impulse](https://pic1.zhimg.com/v2-1574c1fdb3d4852012ca7e4dc401276f_1440w.jpg?source=d16d100b)
+![Response_by_impulse](https://medias.wangruipeng.com/Response_by_impulse.png)
 
-![Response_by_impulse_2](https://pic1.zhimg.com/v2-1574c1fdb3d4852012ca7e4dc401276f_1440w.jpg?source=d16d100b)
+![Response_by_impulse_2](https://medias.wangruipeng.com/Response_by_impulse_2.png)
 
 Note that among all these formulas, only j is the unknown variable, so it's particularly easy to solve. Make sure to correspond the variables in the code with the ones in the formula above. Be aware that Unity's matrix operation library does not support scalar multiplication and subtraction with matrices, so we need to input these manually.
 
