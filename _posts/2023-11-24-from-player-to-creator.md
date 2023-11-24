@@ -2,9 +2,9 @@
 date: 2020-05-16T23:48:05.000Z
 layout: post
 title: 
-subtitle: 'What inspires me to make games.'
+subtitle: 'What Inspires My Game Development'
 description: >-
-  My main result for 
+  Exploring my evolution from a Minecraft enthusiast to a game design student, this post delves into how early gaming experiences ignited my passion for creating games that connect and inspire people from all walks of life. 
 image: >-
   https://medias.wangruipeng.com/numboom-cover.jpg
 optimized_image: >-
@@ -37,4 +37,4 @@ With this newfound purpose, I started on my academic journey at Shenzhen Univers
 And at my senior year, I seized the opportunity to study at the University of Pennsylvania, renowned for its exemplary game programming courses.
 
 This journey from Minecraft to my studies in game development captures my passion.
-I strive to create games that do more than entertain—they unite, inspire, and bring joy, bridging hearts and generations.
+I strive to create games that do more than entertain-they unite, inspire, and bring joy, bridging hearts and generations.
