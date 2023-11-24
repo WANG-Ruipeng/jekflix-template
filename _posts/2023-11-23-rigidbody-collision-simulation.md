@@ -7,9 +7,9 @@ description: >-
   This is part 1 of my course project at GAMES 103 Physics Simulation Series. 
   This part of the course work mainly focuses on simulating rigid body collision.
 image: >-
-  https://7e47eb01c2c6bbc01e57920248d43178.r2.cloudflarestorage.com/pictures/GAMES-103-Lab1-Res.png
+  https://wangruipeng.com/GAMES-103-Lab1-Res.png
 optimized_image: >-
-  https://7e47eb01c2c6bbc01e57920248d43178.r2.cloudflarestorage.com/pictures/GAMES-103-Lab1-Res.png
+  https://wangruipeng.com/GAMES-103-Lab1-Res.png
 category: blog
 tags:
   - physics
@@ -51,7 +51,7 @@ and the orientation by Leapfrog integration. Disable the linear motion and the p
 
 For this assignment, we need to use **leapfrog integration** method. Leapfrog integration is a numerical method widely used in computer physics simulations for its stability and efficiency, especially in dealing with differential equations in motion simulations. This method stands out for its ability to handle large time steps, making it ideal for real-time applications such as video games and visual effects in movies.
 
-![Leapfrog](https://7e47eb01c2c6bbc01e57920248d43178.r2.cloudflarestorage.com/pictures/Leapfrog.png)
+![Leapfrog](https://pub-80cdf57f3b4042e69e006466ac4f50f3.r2.dev/Leapfrog.png)
 
 We just need to code according to the formula. First, we obtain `x0` and `q0` as the position and rotation angle of the object from the last simulation, and then update them after calculation.
 
@@ -157,11 +157,11 @@ calculate the proper impulse j for the average colliding position. You then upda
 
 The specific implementation is to directly follow the formula step by step. Here, we'll first present all the formulas. Don't worry, we will explain them one by one in detail.
 
-![Rigid collision formulae](https://7e47eb01c2c6bbc01e57920248d43178.r2.cloudflarestorage.com/pictures/Rigid_collision_formulae.png)
+![Rigid collision formulae](https://pub-80cdf57f3b4042e69e006466ac4f50f3.r2.dev/Rigid_collision_formulae.png)
 
 We need to first calculate the velocity after the collision, the formula for which is as follows:
 
-![Impulse](https://7e47eb01c2c6bbc01e57920248d43178.r2.cloudflarestorage.com/pictures/Impulse_method.png)
+![Impulse](https://pub-80cdf57f3b4042e69e006466ac4f50f3.r2.dev/Impulse_method.png)
 
 We decompose the velocity into components along the normal and tangential directions as **`CollisionPointSpeedN`** and **`CollisionPointSpeedF`**, respectively. Then, we calculate the velocity along the normal and tangential directions after the collision again, storing them in **`CollisionPointSpeedN_New`** and **`CollisionPointSpeedF_New`**, respectively. Finally, we combine these to form **`CollisionPointSpeed_New`**
 
