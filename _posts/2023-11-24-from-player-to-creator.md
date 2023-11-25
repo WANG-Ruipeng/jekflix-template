@@ -20,8 +20,8 @@ My fascination with gaming began in primary school, sparked by afternoons spent 
 I immersed in the simple joys of exploration and creation. It wasn't just a game; it was a canvas for our imaginations. 
 This early experience sowed the seeds of curiosity: How are these captivating games crafted and designed?
 
-In high school, I began my journey into game design began. 
-Guided by an passion and an eagerness to learn, I made quick progress. 
+In high school, I began my journey into game design. 
+Guided by passion and eagerness to learn, I made quick progress. 
 Culminating in the creation of a board game that became a hit. 
 
 The defining moment came during a playtest session. A heartwarming scene unfolded before me: a diverse group - a mother with her child, a high school student, and a man in his 50s - united by my game.
