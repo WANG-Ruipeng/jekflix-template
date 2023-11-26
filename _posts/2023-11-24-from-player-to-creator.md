@@ -6,9 +6,9 @@ subtitle: 'What Inspires My Game Development'
 description: >-
   Exploring my evolution from a Minecraft enthusiast to a game design student, this post delves into how early gaming experiences ignited my passion for creating games that connect and inspire people from all walks of life. 
 image: >-
-  https://medias.wangruipeng.com/numboom-cover.jpg
+  https://medias.wangruipeng.com/Motive-1.JPG
 optimized_image: >-
-  https://medias.wangruipeng.com/numboom-cover.jpg
+  https://medias.wangruipeng.com/Motive-1.JPG
 category: blog
 tags:
   - introduction
