@@ -1,5 +1,5 @@
 ---
-date: 2023-11-26 00:12:58
+date: 2023-06-26 00:12:58
 layout: post
 title: "Pretty Draboat!! - AI Generated Character"
 subtitle: "Exploring AI-Powered Character Design with Midjourney"

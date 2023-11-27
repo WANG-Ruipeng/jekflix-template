@@ -23,6 +23,7 @@ This early experience sowed the seeds of curiosity: How are these captivating ga
 In high school, I began my journey into game design. 
 Guided by passion and eagerness to learn, I made quick progress. 
 Culminating in the creation of a board game that became a hit. 
+[The rules of board game can be downloaded here.](https://medias.wangruipeng.com/Numboom.pdf)
 
 The defining moment came during a playtest session. A heartwarming scene unfolded before me: a diverse group - a mother with her child, a high school student, and a man in his 50s - united by my game.
 Their laughter and lively discussions over thier shared experiences illuminated the true essence of gaming for me.
