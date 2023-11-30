@@ -8,7 +8,7 @@ image: https://medias.wangruipeng.com/PrettyDrab-2-1.png
 optimized_image: https://medias.wangruipeng.com/PrettyDrab-2-1.png
 category: blog
 tags:
- -Design
+ - Design
 author: Wang Ruipeng
 paginate: false
 ---
