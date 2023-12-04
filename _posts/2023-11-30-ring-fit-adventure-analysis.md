@@ -22,13 +22,13 @@ The original Chinese version of the passage could be accessed here:
 
 ![Untitled](https://medias.wangruipeng.com/RingFitAdv1.png)
 
-Aerobic boxing, for example, can be fun but often feels monotonous and less engaging than rhythm games. In contrast, "Ring Fit Adventure," with its RPG format, vividly showcases the "growth" system, aligning with the nature of physical exercise while boosting player engagement through repeated play.
+Aerobic boxing, for example, can be fun but often feels monotonous and less engaging than rhythm games. In contrast, "Ring Fit Adventure," with its RPG format, vividly showcases the "growth" system, aligning with the nature of physical exercise while boosting player engagement through playing repeatedly.
 
 ![Untitled](https://medias.wangruipeng.com/RingFitAdv2.png)
 
 I personally spent 50 hours in my first playthrough. That was quite a huge amount of sweat! 
 
-Why does incorporating a growth system into an exercise game make such a difference? In real life, the sense of "growth" is a powerful motivator for exercise. Look at fitness apps or sports brand advertisements: they often emphasize the link between exercise and attributes like discipline and confidence. They highlight the transformative effects of exercise, such as improved physique and health. This focus on the sense of growth is key.
+Why does incorporating a growth system into an exercise game make such a difference? In real life, the sense of "growth" is a powerful motivator for exercise. Look at fitness apps or sports brand advertisements: they often emphasize the link between exercise and attributes like self-discipline and confidence. They highlight the transformative effects of exercise, such as improved physique and health. This focus on the sense of growth is key.
 
 Exercise alone can be a slow process. You can't expect to develop a six-pack after just a few sit-ups. Many give up before seeing tangible results. This is a common reason for discontinuing fitness routines.
 
@@ -48,15 +48,15 @@ In summary, "Ring Fit Adventure" adheres to the principle that "**every input ha
 
 (Mini-games are super interesting!)
 
-Perhaps due to its novelty as a fitness-plus-RPG game, the RPG elements of "Ring Fit Adventure" are classic yet artfully adapted to the game's overall tone. Classic RPG equipment becomes exercise gear enhancing attack and defense, while food items are replaced with healthy vegetable and fruit juices. The player's skills become fitness moves.
+Perhaps due to its novelty as a fitness-plus-RPG game, the RPG elements of "Ring Fit Adventure" remained classic, while the graphic design was adapted to the game's overall theme which is centered around fitness. Classic RPG equipment becomes exercise gear enhancing attack and defense, while food items are replaced with healthy vegetable and fruit juices. The player's skills become fitness moves.
 
 This artistic approach is often overlooked in other exercise games, yet it plays a significant role in creating an engaging fitness atmosphere. It motivates players to move and exercise.
 
 ![Untitled](https://medias.wangruipeng.com/RingFitAdv6.png)
 
-(For better immersion, Nintendo replace traditional RPG elements like potions with smoothie, a healthier choice.)
+(For better immersion, Nintendo replaced traditional RPG elements like potions with smoothie, a healthier choice.)
 
-Beyond in-game growth, "Ring Fit Adventure" also encourages players to notice physical changes in themselves, promoting healthy eating and a sense of achievement. Social media posts from players, sharing their weight loss and fitness improvements, extend this sense of growth beyond the game. We can conclude that "Ring Fit Adventure" players achieves real growth and transformation both in-game and out, thanks to its system design and positive guidance.
+Beyond in-game growth, "Ring Fit Adventure" also encourages players to notice physical changes in themselves, promoting healthy diet and a sense of achievement. Social media posts from players, sharing their weight loss and fitness improvements, bringing this sense of growth outside the game. We can conclude that "Ring Fit Adventure" players achieves real growth and transformation both in-game and out, thanks to its system design and positive guidance.
 
 ![Untitled](https://medias.wangruipeng.com/RingFitAdv7.png)
 
@@ -68,7 +68,7 @@ The game's unique peripheral, the Ring-Con, solves multiple challenges in exerci
 
 Without the Ring-Con, players would be limited to the usual setup of most exercise games: one Joy-Con strapped to the leg for lower body tracking and another in hand for upper body movements. The Ring-Con, however, actively involves both hands and legs in the gameplay.
 
-Compared to swinging a controller in the air, the Ring-Con offers a more comprehensive workout for the hands. Its Pilates ring-like design accommodates all ages and fitness levels. Instead of fixed-weight equipment like dumbbells, the Ring-Con allows for adjustable resistance, suitable for everyone.
+Compared to swinging a controller in the air, the Ring-Con offers a more comprehensive workout for the hands. Its Pilates-ring-like design accommodates all ages and fitness levels. Instead of fixed-weight equipments like dumbbells, the Ring-Con allows for adjustable resistance, suitable for everyone.
 
 Holding a fitness ring also provides a psychological cue to the player that they are exercising, not just playing a game. This perception boosts the social acceptance of "Ring Fit Adventure" as a fitness tool rather than just a game.
 
@@ -82,7 +82,7 @@ The game's tutorials on using the Ring-Con are intuitive and subtle, integrating
 
 ![Untitled](https://medias.wangruipeng.com/RingFitAdv11.png)
 
-The future of practical games like "Ring Fit Adventure" lies in addressing the negative social perception of gaming. Games with a practical purpose can change this narrative. Parents who are cautious about their children playing games like "Honor of Kings" may be more receptive to them playing "Ring Fit Adventure."
+The future of practical games like "Ring Fit Adventure" lies in shifting the negative social perception of gaming. Games with a practical purpose can change this narrative. Parents who are cautious about their children playing games like "Honor of Kings" may be more receptive to them playing "Ring Fit Adventure."
 
 The game's popularity, particularly during the pandemic, is inseparable from its practical design. Both adults and children can participate, broadening its appeal. This aligns with Nintendo's principle of designing games that cater to a wide audience.
 
